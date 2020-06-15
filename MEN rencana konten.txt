@@ -2,7 +2,7 @@ Rencana Konten MEN
 - Javascript
   * ES6
   * Framework Javascript
-  * React JS
+  * Angular
 - Struktur Data dasar
 - Ruby
 - Python
