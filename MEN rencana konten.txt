@@ -2,8 +2,10 @@ Rencana Konten MEN
 - Javascript
   * ES6
   * Framework Javascript
+   > Vue Js
   * React JS
 - Struktur Data dasar
+- Codeigniter
 - Ruby
 - Python
 - Bootstrap
