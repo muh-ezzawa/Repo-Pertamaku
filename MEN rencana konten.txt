@@ -1,5 +1,8 @@
 Rencana Konten MEN 
 - Javascript
+  * ES6
+  * Framework Javascript
+  * React JS
 - Ruby
 - Python
 - Bootstrap
