@@ -3,6 +3,7 @@ Rencana Konten MEN
   * ES6
   * Framework Javascript
    > Vue Js
+   > Manila Js
   * React JS
 - Struktur Data dasar
 - Codeigniter
